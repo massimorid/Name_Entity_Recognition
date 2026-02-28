@@ -1,0 +1,482 @@
+[
+  {
+    "keys":"de.travel.for_self_employed.other_travel_fees",
+    "new_keywords_clean":"business, railway, travel, cable, trip, assignment, excursion, ferry, mountain, transport"
+  },
+  {
+    "keys":"de.travel.for_self_employed.per_diem",
+    "new_keywords_clean":"diem, travel, overnight, expense, meal, allowance, \/, flat, rate, tax deduction"
+  },
+  {
+    "keys":"de.marketing.marketing",
+    "new_keywords_clean":"sponsor, ad, brand, social, medium, marketing, sale, trade, google, cost, campaign, promotion, analytics, content, audience"
+  },
+  {
+    "keys":"de.vehicle.business_car.fuel",
+    "new_keywords_clean":"fuel, tank, refuel, refueling, gasoline, gas, energy, electricity, invoice management, receipt tracking"
+  },
+  {
+    "keys":"de.training_and_documentation.training",
+    "new_keywords_clean":"fitness, education, train, mentoring, training, supervision, online, coach, certificate, professional development"
+  },
+  {
+    "keys":"de.interest_and_bank_charges.interest",
+    "new_keywords_clean":"repayment, cost, credit, payment, interest, receive, installment, loan, APR, finance"
+  },
+  {
+    "keys":"de.phone_and_internet.internet",
+    "new_keywords_clean":"office, internet, power, broadband, subscription fees, internet plans, data costs, monthly payments, service providers, connection speed"
+  },
+  {
+    "keys":"de.technology.hardware",
+    "new_keywords_clean":"handy, headphone, drive, mobile, laptop, cable, nas, hardware, phone, microphone, tablet, accessories, monitor, gaming, gadget"
+  },
+  {
+    "keys":"de.food_and_drinks.bar_and_restaurants",
+    "new_keywords_clean":"hospitality, employee, outing, meal, tip, display, customer, plate, grocery, business dining"
+  },
+  {
+    "keys":"de.travel.for_self_employed.car_private_use",
+    "new_keywords_clean":"['```json', '[', '    \"business\",', '    \"withdrawal\",', '    \"mileage\",', '    \"travel\",', '    \"private\",', '    \"expense\",', '    \"trip\",', '    \"use\",', '    \"car\",', '    \"commuter\"', ']', '```']"
+  },
+  {
+    "keys":"de.legal_and_other_fees.other_fees",
+    "new_keywords_clean":"business, credit, alternative, expense, transaction, service, etsy, bailiff, note, administrative costs"
+  },
+  {
+    "keys":"de.vehicle.business_car.repair",
+    "new_keywords_clean":"bicycle, clean, oil, business, stage, workshop, repair, brake, vehicle, maintenance, service, tools, cost, inspection, parts"
+  },
+  {
+    "keys":"de.training_and_documentation.documentation",
+    "new_keywords_clean":"education, &, literature, portfolio, journal, books, professional, newspaper, magazines, specialist"
+  },
+  {
+    "keys":"de.goods_and_materials.goods_for_resell",
+    "new_keywords_clean":"product, material, production, cosmetic, appraiser, glass, cup, insert, price, resale"
+  },
+  {
+    "keys":"de.marketing.personal_gifts_low",
+    "new_keywords_clean":"gift, present, promotional, christmas, leisure, donate, customer, ornament, affordable, token"
+  },
+  {
+    "keys":"de.investments.machines",
+    "new_keywords_clean":"depreciation, machine, capital investment, equipment financing, asset management, manufacturing technology, business efficiency, return on investment, automation solutions, industrial machinery"
+  },
+  {
+    "keys":"de.workplace.rent.outside",
+    "new_keywords_clean":"cost, office, rental, rent, space, storage, coworke, deposit, retail, workspace"
+  },
+  {
+    "keys":"de.subcontracting",
+    "new_keywords_clean":"dj, production, provider, service, cost, external, subcontracting, contractors, project management, outsourcing"
+  },
+  {
+    "keys":"de.investments.land",
+    "new_keywords_clean":"land, real, acquisition, estate, cost, loan, property investment, land financing, zoning regulations, commercial real estate"
+  },
+  {
+    "keys":"de.taxes_and_insurance.for_self_employed.private_insurances",
+    "new_keywords_clean":"health, withdrawal, medical, mandatory, private, ', long, -, social, term, care, payment, insurance, doctor, fund, artist, self-employed, coverage, premium, risk, benefits"
+  },
+  {
+    "keys":"de.vehicle.short_term_rental.other",
+    "new_keywords_clean":"bike, rental, swap, car, deposit, maintenance, insurance, fuel, registration, tolls"
+  },
+  {
+    "keys":"de.compensation.health_insurance",
+    "new_keywords_clean":"sick, health, employee benefits, healthcare costs, insurance coverage, medical insurance, wellness programs, group health plans, health insurance quotes, employee health plans"
+  },
+  {
+    "keys":"de.workplace.workwear",
+    "new_keywords_clean":"bag, workwear, underwear, clothe, safety, dress, hairdo, shoe, uniform, accessories"
+  },
+  {
+    "keys":"de.interest_and_bank_charges.bank_charges",
+    "new_keywords_clean":"credit, debit, return, note, card, fee, statement, account, cost, transaction"
+  },
+  {
+    "keys":"de.taxes_and_insurance.for_self_employed.fines_for_late_payment",
+    "new_keywords_clean":"reminder, fee, cost, notice, penalty, tax overdue, late payment charge, interest on unpaid tax, tax compliance, financial consequences"
+  },
+  {
+    "keys":"de.vehicle.business_car.purchase",
+    "new_keywords_clean":"financing, tire, vehicle, car, trade, rate, auto loan, business vehicle, commercial car purchase, fleet management"
+  },
+  {
+    "keys":"de.phone_and_internet.phone",
+    "new_keywords_clean":"landline, mobile, network, communication, phone plans, subscription fees, billing, telecom services, cost analysis, contract terms"
+  },
+  {
+    "keys":"de.taxes_and_insurance.vat_payment",
+    "new_keywords_clean":"office, prepayment, income, sale, turnover, tax, VAT compliance, tax authority, business expenses, customs duties"
+  },
+  {
+    "keys":"de.office.supplies",
+    "new_keywords_clean":"material, house, stationery, office, pa, printer, cartridge, letter, supply, expenses"
+  },
+  {
+    "keys":"de.legal_and_other_fees.accounting_fees",
+    "new_keywords_clean":"advisor, accounting, fee, consultant, advice, tax, bookkeeping, financial planning, audit, expenses"
+  },
+  {
+    "keys":"de.workplace.consumables",
+    "new_keywords_clean":"clean, material, hygiene, product, hair, accessory, consumable, working, display, supplies"
+  },
+  {
+    "keys":"de.office.furniture",
+    "new_keywords_clean":"furniture, setup, table, office, lamp, desk, chair, henry, shelf, workspace"
+  },
+  {
+    "keys":"de.vehicle.business_utility_vehicle.purchase.other",
+    "new_keywords_clean":"garage, bicycle, sale, car, vehicle purchase, commercial vehicle, transportation, fleet management, professional use, business vehicle"
+  },
+  {
+    "keys":"de.categories.mailing.other_transport_fees",
+    "new_keywords_clean":"credit, cancellation, refund, freight, transit, ship, cost, deposit, shipping, logistics"
+  },
+  {
+    "keys":"de.vehicle.business_car.other",
+    "new_keywords_clean":"garage, part, oil, neutral, thg, bike, spare, tüv, wash, vehicle, registration, car, certificate, insurance, maintenance, fuel, repairs, tax, servicing, accessories"
+  },
+  {
+    "keys":"de.taxes_and_insurance.for_self_employed.import_vat",
+    "new_keywords_clean":"custom, tax, foreign, import, VAT, customs duties, clearance fees, transport costs, international shipping, import regulations"
+  },
+  {
+    "keys":"de.taxes_and_insurance.for_self_employed.property_tax.outside",
+    "new_keywords_clean":"waste, fee, property tax, office expenses, commercial property tax, business tax deductions, tax assessment, real estate tax, office tax planning, tax liability"
+  },
+  {
+    "keys":"de.workplace.maintenance.outside",
+    "new_keywords_clean":"painter, operating, cost, external office maintenance, facility upkeep, repair services, office maintenance expenses, building maintenance, janitorial services, property management"
+  },
+  {
+    "keys":"de.technology.software_subscription",
+    "new_keywords_clean":"chatgpt, icloud, amazon, membership, language, software, pdffiller, accountable, vpn, cloud services"
+  },
+  {
+    "keys":"de.categories.mailing.commissions",
+    "new_keywords_clean":"provision, commission, etsy, fee, sale, marketplace, ebay, affiliate, revenue, incentive"
+  },
+  {
+    "keys":"de.taxes_and_insurance.for_self_employed.trade_tax",
+    "new_keywords_clean":"business, earning, income, registration, taxis, taxation, Germany, self-employment, deductions, compliance"
+  },
+  {
+    "keys":"de.investments.tools",
+    "new_keywords_clean":"device, instrument, part, equipment, tool, material, spare, detector, musical, suitcase, building, smoke, replacement, appliance, gadget, utility"
+  },
+  {
+    "keys":"de.taxes_and_insurance.for_self_employed.pension_plan",
+    "new_keywords_clean":"investment, private, provision, expense, ksk, insurance, retirement, pension, self-employed, financial planning"
+  },
+  {
+    "keys":"de.technology.software_license",
+    "new_keywords_clean":"usage, license, photo, one-time payment, software purchase, lifetime license, perpetual license, non-renewable subscription, software ownership, digital rights"
+  },
+  {
+    "keys":"de.vehicle.business_car.insurance",
+    "new_keywords_clean":"insurance, car, commercial vehicle insurance, professional driver coverage, auto insurance, fleet insurance, business vehicle insurance, liability insurance, vehicle protection plans, roadside assistance"
+  },
+  {
+    "keys":"de.vehicle.business_car.purchase.other",
+    "new_keywords_clean":"garage, bicycle, tire, wiper, bike, car, windshield, deposit, vehicle, maintenance"
+  },
+  {
+    "keys":"de.taxes_and_insurance.for_self_employed.business_insurances",
+    "new_keywords_clean":"business, ', social, income, liability, insurance, public, artist, self-employed, risk management"
+  },
+  {
+    "keys":"de.investments.shop_furniture",
+    "new_keywords_clean":"bauhaus, liege, modern furniture, interior design, home decor, furniture investment, stylish furniture, shop furnishings, contemporary furniture, furniture trends"
+  },
+  {
+    "keys":"de.legal_and_other_fees.membership_fees",
+    "new_keywords_clean":"member, gym, membership, prime, chamber, commerce, association, dues, subscription, affiliation"
+  },
+  {
+    "keys":"de.travel.for_self_employed.public_transport",
+    "new_keywords_clean":"journey, train, ticket, public transport, bus, tram, commute, fare, transportation costs, travel expenses"
+  },
+  {
+    "keys":"de.food_and_drinks.canteen_and_reception",
+    "new_keywords_clean":"booth, champagne, machine, box, opening, cater, employee, coffee, milk, food delivery"
+  },
+  {
+    "keys":"de.travel.for_self_employed.rental",
+    "new_keywords_clean":"share, car, rental, carsharing, cost, price, vehicle, transportation, mobility, leasing"
+  },
+  {
+    "keys":"de.workplace.cleaning",
+    "new_keywords_clean":"disposal, clean, trash, toilet, waste, studio, scent, agent, office cleaning services, cleaning costs"
+  },
+  {
+    "keys":"de.goods_and_materials.raw_material",
+    "new_keywords_clean":"material, oil, heating, production, fermentation, mother, film, raw, develop, cost, building, solvent, sourcing, pricing, VAT, expenses, manufacturing, supply chain, resources, investments"
+  },
+  {
+    "keys":"de.categories.leasing.leasing_computer",
+    "new_keywords_clean":"device, leasing, computer, laptop, business equipment, financing options, technology rental, cost management, lease agreements, electronic devices"
+  },
+  {
+    "keys":"de.vehicle.business_car.parking",
+    "new_keywords_clean":"garage, parking, park, fee, rent, receipt, ticket, validation, meter, cost"
+  },
+  {
+    "keys":"de.compensation.wages",
+    "new_keywords_clean":"manage, salary, director, employee compensation, wage structure, payroll management, salary negotiation, labor costs, wage policies, employee benefits"
+  },
+  {
+    "keys":"de.vehicle.business_car.taxes",
+    "new_keywords_clean":"office, vehicle, registration, tax, commercial, deductions, compliance, licensing, fees, expenses"
+  },
+  {
+    "keys":"de.marketing.personal_gifts_high.private",
+    "new_keywords_clean":"donate, charity, philanthropy, give back, nonprofit, fundraising, support a cause, volunteer, community service, social impact"
+  },
+  {
+    "keys":"de.technology.hosting",
+    "new_keywords_clean":"website, cloud, server, rental, domain, web hosting, AWS services, virtual private server, managed hosting, domain registration"
+  },
+  {
+    "keys":"de.workplace.rent.inside_main",
+    "new_keywords_clean":"heating, home, hour, office, work, allowance, cost, deductions, expenses, workspace"
+  },
+  {
+    "keys":"de.marketing.personal_gifts_high.professional",
+    "new_keywords_clean":"monetary, sponsor, donate, donation, fundraising, philanthropy, charity, contribution, nonprofit, benefactor"
+  },
+  {
+    "keys":"de.workplace.decoration",
+    "new_keywords_clean":"picture, office, door, print, frame, color, wall, tablecloth, art, plants"
+  },
+  {
+    "keys":"de.workplace.rent.inside_secondary",
+    "new_keywords_clean":"service, apartment, home office rental, secondary workplace, remote work costs, workspace rental, flexible office space, office lease, work from home expenses, temporary office solution"
+  },
+  {
+    "keys":"de.vehicle.business_utility_vehicle.other",
+    "new_keywords_clean":"uber, vehicle expenses, professional vehicle costs, ride-sharing fees, operating expenses, auto maintenance, fuel costs, insurance expenses, business vehicle deductions, transportation overhead"
+  },
+  {
+    "keys":"de.vehicle.business_car.road_and_registration_taxes",
+    "new_keywords_clean":"death, mouth, road taxes, vehicle taxes, professional vehicles, tax compliance, tax regulations, auto taxes, fuel taxes, business vehicle expenses"
+  },
+  {
+    "keys":"de.travel.for_employee.hotels",
+    "new_keywords_clean":"accommodation, employee lodging, corporate housing, business travel, hotel expenses, work trip accommodations, staff travel arrangements, employee benefits, travel policy, workplace travel solutions"
+  },
+  {
+    "keys":"de.marketing.promotional_gifts",
+    "new_keywords_clean":"gift, material, sack, business, advertising, cart, flyer, promotional, card, swag"
+  },
+  {
+    "keys":"de.travel.for_self_employed.hotels",
+    "new_keywords_clean":"accommodation, stay, overnight, business travel, corporate lodging, hotel expenses, travel budget, business trip, professional stay, expense management"
+  },
+  {
+    "keys":"de.travel.for_employee.other_travel_fees",
+    "new_keywords_clean":"train, tour, city, transfer, station, lodging, meal allowance, flight, transportation, expense reimbursement"
+  },
+  {
+    "keys":"de.travel.for_self_employed.taxi.short_distance",
+    "new_keywords_clean":"taxi, taxi services, local taxi, taxi fare, taxi booking, Stadtfahrt, 7% VAT, city transport, ride-hailing, taxi regulations"
+  },
+  {
+    "keys":"de.vehicle.business_car.leasing",
+    "new_keywords_clean":"car, loan, vehicle leasing, leasing fees, finance options, business vehicle, leasing agreements, commercial leasing, tax benefits, fleet management"
+  },
+  {
+    "keys":"de.office.mailing.stamps_postage",
+    "new_keywords_clean":"post, stamps, postage stamps, collectible stamps, postal services, shipping supplies, mailing solutions, stamp albums, philately, international postage"
+  },
+  {
+    "keys":"de.travel.for_self_employed.taxi.long_distance",
+    "new_keywords_clean":"service, ferry, taxi, transportation, rideshare, mobility, fare, VAT, Uber, FreeNow"
+  },
+  {
+    "keys":"de.technology.maintenance",
+    "new_keywords_clean":"maintenance, repairs, computer repair, camera maintenance, phone repair, technical support, device servicing, hardware maintenance, software updates, electronic repairs"
+  },
+  {
+    "keys":"de.compensation.other_personal_expenses",
+    "new_keywords_clean":"honorarium, holder, helper, payment, reimbursement, compensation, allowance, expense report, employee benefits, business expenses"
+  },
+  {
+    "keys":"de.legal_and_other_fees.lawyer_fees_and_consulting",
+    "new_keywords_clean":"lawyer, fee, legal, consulting, billing, attorney, justice system, costs, court fees, legal expenses"
+  },
+  {
+    "keys":"de.categories.mailing.transport_insurance",
+    "new_keywords_clean":"insurance, travel, transportation insurance, cargo insurance, freight insurance, business shipping insurance, logistics insurance, shipment protection, commercial insurance, risk management"
+  },
+  {
+    "keys":"de.office.mailing.package",
+    "new_keywords_clean":"envelope, shipping costs, packaging supplies, business logistics, freight expenses, cost-effective packaging, shipping materials, parcel delivery, bulk shipping, logistics management"
+  },
+  {
+    "keys":"de.legal_and_other_fees.audit_and_closing_fees",
+    "new_keywords_clean":"['```json', '[', '    \"audit fees\",', '    \"auditor fees\",', '    \"closing fees\",', '    \"yearly closing costs\",', '    \"profit and loss audit\",', '    \"financial statement audit\",', '    \"audit expenses\",', '    \"closing cost breakdown\",', '    \"annual audit fees\",', '    \"P&L closing fees\"', ']', '```']"
+  },
+  {
+    "keys":"de.vehicle.business_utility_vehicle.fuel",
+    "new_keywords_clean":"fuel invoices, fuel receipts, electricity bills, energy expenses, utility invoices, cost management, expense tracking, billing records, energy consumption, financial documentation"
+  },
+  {
+    "keys":"de.vehicle.business_utility_vehicle.parking",
+    "new_keywords_clean":"parking receipts, parking fees, parking ticket, parking payment, parking charge, parking validation, parking invoice, parking expense report, parking documentation, parking transactions"
+  },
+  {
+    "keys":"de.vehicle.business_utility_vehicle.repair",
+    "new_keywords_clean":"vehicle repair costs, maintenance expenses, professional vehicle upkeep, automotive service fees, repair and maintenance budget, vehicle servicing, cost of repairs, maintenance tips for vehicles, automobile repair services, fleet vehicle maintenance"
+  },
+  {
+    "keys":"de.vehicle.business_utility_vehicle.leasing",
+    "new_keywords_clean":"vehicle leasing, leasing fees, professional vehicle lease, business vehicle financing, commercial vehicle leasing, long-term vehicle lease, leasing vs buying, vehicle lease agreements, fleet leasing options, tax benefits of leasing"
+  },
+  {
+    "keys":"de.vehicle.business_utility_vehicle.insurance",
+    "new_keywords_clean":"['```json', '[', '    \"professional vehicle insurance\",', '    \"commercial auto insurance\",', '    \"fleet insurance\",', '    \"business vehicle coverage\",', '    \"liability insurance for vehicles\",', '    \"insurance for delivery vehicles\",', '    \"transportation insurance\",', '    \"vehicle insurance for businesses\",', '    \"commercial vehicle protection\",', '    \"insurance for company cars\"', ']', '```']"
+  },
+  {
+    "keys":"de.vehicle.business_utility_vehicle.taxes",
+    "new_keywords_clean":"vehicle taxes, professional vehicle tax, automobile taxes, tax deductions for vehicles, vehicle registration fees, business vehicle expenses, tax compliance for vehicles, vehicle tax credits, commercial vehicle taxation, fleet vehicle taxes"
+  },
+  {
+    "keys":"de.vehicle.business_utility_vehicle.road_and_registration_taxes",
+    "new_keywords_clean":"road taxes, professional vehicle taxes, vehicle tax regulations, tax deductions for vehicles, commercial vehicle tax, tax compliance for trucks, transportation taxes, fleet vehicle taxes, business vehicle tax credits, state vehicle tax laws"
+  },
+  {
+    "keys":"de.vehicle.business_utility_vehicle.purchase",
+    "new_keywords_clean":"buy truck, truck purchase, commercial truck sales, professional vehicle acquisition, heavy-duty truck buying, fleet vehicle purchases, new truck for business, used truck for work, truck financing options, business vehicle investment"
+  },
+  {
+    "keys":"de.vehicle.short_term_rental.fuel",
+    "new_keywords_clean":"fuel invoices, fuel receipts, electricity bills, energy expenses, utility payments, cost tracking, financial management, budgeting tools, invoice organization, expense reporting"
+  },
+  {
+    "keys":"de.vehicle.short_term_rental.parking",
+    "new_keywords_clean":"parking receipts, parking fees, parking transactions, parking ticket, parking payment, parking expense record, parking invoice, parking cost documentation, parking charge statement, parking expense report"
+  },
+  {
+    "keys":"de.vehicle.short_term_rental.repair",
+    "new_keywords_clean":"['```json', '[', '    \"vehicle maintenance\",', '    \"professional vehicle repairs\",', '    \"repair expenses\",', '    \"vehicle upkeep costs\",', '    \"automotive maintenance\",', '    \"service and repairs\",', '    \"maintenance budgeting\",', '    \"vehicle repair services\",', '    \"cost of vehicle maintenance\",', '    \"professional fleet management\"', ']', '```']"
+  },
+  {
+    "keys":"de.vehicle.short_term_rental.leasing",
+    "new_keywords_clean":"['```json', '[', '    \"vehicle leasing\",', '    \"leasing fees\",', '    \"professional vehicle leasing\",', '    \"business vehicle financing\",', '    \"fleet leasing options\",', '    \"long-term vehicle lease\",', '    \"leasing agreements\",', '    \"tax benefits of leasing\",', '    \"operational leasing\",', '    \"commercial vehicle leasing\"', ']', '```']"
+  },
+  {
+    "keys":"de.vehicle.short_term_rental.insurance",
+    "new_keywords_clean":"professional vehicle insurance, commercial auto insurance, fleet insurance coverage, business vehicle protection, vehicle liability insurance, transportation insurance, commercial vehicle policies, insurance for trucks, insurance for vans, business auto insurance"
+  },
+  {
+    "keys":"de.vehicle.short_term_rental.taxes",
+    "new_keywords_clean":"['```json', '[', '    \"vehicle taxes\",', '    \"professional vehicle tax\",', '    \"auto tax deductions\",', '    \"business vehicle expenses\",', '    \"transportation tax benefits\",', '    \"car tax regulations\",', '    \"deductible vehicle costs\",', '    \"commercial vehicle taxes\",', '    \"tax compliance for vehicles\",', '    \"business mileage deductions\"', ']', '```']"
+  },
+  {
+    "keys":"de.vehicle.short_term_rental.road_and_registration_taxes",
+    "new_keywords_clean":"road taxes, vehicle taxes, professional vehicle fees, transportation taxes, commercial vehicle taxation, auto tax regulations, tax deductions for vehicles, business vehicle expenses, state road tax, vehicle registration fees"
+  },
+  {
+    "keys":"de.travel.for_employee.public_transport",
+    "new_keywords_clean":"public transportation, Public Transport, train, metro, tram, trainticket, bus ticket, metro ticket, tram ticket, employee commuting"
+  },
+  {
+    "keys":"de.travel.for_employee.per_diem",
+    "new_keywords_clean":"Hotel, Hotels, flights, daily allowance, plane ticket, airplane, flight, business trip, Restaurant, travel expenses"
+  },
+  {
+    "keys":"de.travel.for_employee.flights",
+    "new_keywords_clean":"flight, airplane, business trip, daily allowance, plane ticket, corporate travel, employee travel, travel expenses, airfare, travel policy"
+  },
+  {
+    "keys":"de.travel.for_employee.rental",
+    "new_keywords_clean":"car, Automotive, Auto, Vehicle, Moto, Bike, electricity, Hybrid, Diesel, carsharing"
+  },
+  {
+    "keys":"de.travel.for_employee.taxi.short_distance",
+    "new_keywords_clean":"Uber, Taxi, driver, taxi fee, employee transportation, short distance taxi, corporate taxi service, business travel, local taxi service, commuting solutions"
+  },
+  {
+    "keys":"de.travel.for_employee.taxi.long_distance",
+    "new_keywords_clean":"Uber, Taxi, driver, taxi fee, employee transportation, long distance taxi, ride-sharing services, corporate taxi services, commuter transport, VAT on taxi services"
+  },
+  {
+    "keys":"de.travel.for_employee.car_private_use",
+    "new_keywords_clean":"car, Automotive, Auto, Vehicle, employee reimbursement, mileage reimbursement, private car usage, kilometergeld, expense policy, travel expenses"
+  },
+  {
+    "keys":"de.travel.for_self_employed.flights",
+    "new_keywords_clean":"Hotel, Hotels, flights, daily allowance, plane ticket, airplane, flight, business trip, Restaurant, travel expenses"
+  },
+  {
+    "keys":"de.taxes_and_insurance.for_self_employed.nd_fines_for_late_payment",
+    "new_keywords_clean":"late payment fines, non-deductible taxes, tax penalties, tax payment deadlines, tax compliance, financial liabilities, taxation rules, penalties for late tax payment, IRS fines, tax obligations"
+  },
+  {
+    "keys":"de.taxes_and_insurance.for_self_employed.property_tax.inside_main",
+    "new_keywords_clean":"property tax, home office, main workplace, tax deductions, office expenses, home business, remote work tax benefits, deductible home office, property tax deductions, workspace tax regulations"
+  },
+  {
+    "keys":"de.taxes_and_insurance.for_self_employed.property_tax.inside_secondary",
+    "new_keywords_clean":"['```json', '[', '    \"property tax\",', '    \"home office tax deduction\",', '    \"secondary workplace taxation\",', '    \"business expenses for home office\",', '    \"deductible expenses for home office\",', '    \"office space tax benefits\",', '    \"tax implications of home office\",', '    \"home office eligibility criteria\",', '    \"property tax assessment for home office\",', '    \"tax regulations for home-based business\"', ']', '```']"
+  },
+  {
+    "keys":"de.workplace.maintenance.inside_main",
+    "new_keywords_clean":"water, gas, electricity, bill, home, house, appartment, surface, Engie, energy, utility, maintenance, costs, workplace, expenses, office, heating, cooling, internet, repairs"
+  },
+  {
+    "keys":"de.workplace.maintenance.inside_secondary",
+    "new_keywords_clean":"water, gas, electricity, bill, home, house, apartment, surface, Engie, energy, utility, maintenance, home office, costs, secondary workplace, office expenses, budgeting, deductions, remote work, workspace"
+  },
+  {
+    "keys":"de.workplace.rent.homelumpsum",
+    "new_keywords_clean":"home, house, appartment, repayment protection insurance, homeoffice, Office, coworking, coliving, remote work, workspace"
+  },
+  {
+    "keys":"de.workplace.renovation",
+    "new_keywords_clean":"workplace renovation, office remodeling, renovation costs, workspace improvement, interior design for offices, commercial renovation expenses, office upgrade budget, business renovation planning, workplace enhancement, office redesign"
+  },
+  {
+    "keys":"de.workplace.security",
+    "new_keywords_clean":"workplace security, security measures, employee safety, access control, surveillance systems, security training, emergency preparedness, risk assessment, physical security, cybersecurity awareness"
+  },
+  {
+    "keys":"de.training_and_documentation.edocumentation",
+    "new_keywords_clean":"['```json', '[', '    \"digital literature\",', '    \"e-magazines\",', '    \"professional publications\",', '    \"specialist literature\",', '    \"online journals\",', '    \"digital resources for professionals\",', '    \"electronic books\",', '    \"academic e-resources\",', '    \"digital media for professionals\",', '    \"virtual publications\"', ']', '```']"
+  },
+  {
+    "keys":"de.investments.installations",
+    "new_keywords_clean":"installations, tenant improvements, office setup, retail space renovations, commercial space design, workspace customization, tenant fit-out, interior installations, rental office upgrades, shop interior design"
+  },
+  {
+    "keys":"de.investments.construction",
+    "new_keywords_clean":"construction, building investment, commercial construction, construction financing, property development, real estate investment, contractor services, project management, architectural design, site preparation"
+  },
+  {
+    "keys":"de.compensation.pension_plan",
+    "new_keywords_clean":"pension, retirement planning, employee benefits, pension contributions, retirement savings, financial security, workplace retirement plans, pension fund management, long-term savings, employee retirement options"
+  },
+  {
+    "keys":"de.compensation.minijobber_fee",
+    "new_keywords_clean":"Minijobber, employment, part-time work, employee fees, German labor laws, wage regulations, tax implications, employment contracts, flexible work arrangements, salary deductions"
+  },
+  {
+    "keys":"de.compensation.workplace_levy",
+    "new_keywords_clean":"workplace levy, Berufsgenossenschaft, occupational safety, employee insurance, workplace regulations, accident prevention, occupational health, employer contributions, social security, workplace compliance"
+  },
+  {
+    "keys":"de.compensation.wage_tax",
+    "new_keywords_clean":"wage tax, employee taxation, payroll tax, income tax withholding, tax compliance, deductions for employees, tax filing for employers, employment taxes, IRS regulations, tax obligations"
+  },
+  {
+    "keys":"de.categories.leasing.leasing_office_furniture",
+    "new_keywords_clean":"leasing, office furniture rental, furniture leasing costs, office equipment lease, workspace furniture rental, short-term furniture lease, corporate furniture leasing, office interior leasing, business furniture rental, lease office furnishings"
+  },
+  {
+    "keys":"de.categories.leasing.installment_purchase",
+    "new_keywords_clean":"instalment purchase, Mietkauf, installment costs, financing options, payment plans, lease-to-own, affordable payments, cost breakdown, financial planning, loan agreements"
+  }
+]

@@ -1,0 +1,446 @@
+[
+  {
+    "keys":"615100",
+    "new_keywords_clean":"entertainment, product, clothe, service, end, rest, open, meal, tip, dining"
+  },
+  {
+    "keys":"611000",
+    "new_keywords_clean":"corporate, withholding, communal, manage, director, professional, taxation, taxis, corporation, real estate tax"
+  },
+  {
+    "keys":"612150d",
+    "new_keywords_clean":"smartphone, gsm, website, laptop, mate, book, spotify, computer, camera, tablet"
+  },
+  {
+    "keys":"623000",
+    "new_keywords_clean":"expense, refund, staff, fee, remuneration, professional, customer, cost, personal, reimbursement, benefits, salary, overhead, payroll, allowance"
+  },
+  {
+    "keys":"612400a",
+    "new_keywords_clean":"mail, machine, workwear, printer, ink, postage, stamp, coffee, garment, stationery"
+  },
+  {
+    "keys":"620500",
+    "new_keywords_clean":"slip, employee, labor, payment, pay, remunerate, cost, loon, remuneration, wage"
+  },
+  {
+    "keys":"613411",
+    "new_keywords_clean":"ophthalmology, utility vehicle maintenance, vehicle repairs, professional vehicle upkeep, maintenance expenses, repair costs, utility vehicle servicing, automotive repair, fleet maintenance, vehicle maintenance tips"
+  },
+  {
+    "keys":"613600b",
+    "new_keywords_clean":"event, train, education, presentation, private, shooting, formation, mission, development, cost, workshop"
+  },
+  {
+    "keys":"603000",
+    "new_keywords_clean":"contract, subcontracting, business, tr, strait, waste, provision, service, registration, compensation"
+  },
+  {
+    "keys":"640501",
+    "new_keywords_clean":"vat, tax, value, add, import costs, customs duties, clearance fees, transport fees, EU imports, import regulations"
+  },
+  {
+    "keys":"612000a",
+    "new_keywords_clean":"equipment, tool, ready, machine, invest, waste, packaging, repair, rental, construction"
+  },
+  {
+    "keys":"618020",
+    "new_keywords_clean":"cot, rsz, onss, coti, prepayment, income, social, taxis, personal, tax, contributions, fund, security, payments, benefits"
+  },
+  {
+    "keys":"240000",
+    "new_keywords_clean":"workwear, table, office, clothe, work, shoe, chair, garment, clothing, furnishing"
+  },
+  {
+    "keys":"615200",
+    "new_keywords_clean":"dog, packaging, waste, reception, coffee, food, grain, water, tea, meal delivery"
+  },
+  {
+    "keys":"604000",
+    "new_keywords_clean":"march, box, album, merchandise, 605, sale, purchase, photo, produce, inventory"
+  },
+  {
+    "keys":"613310a",
+    "new_keywords_clean":"toll, plane, ticket, international flights, business travel, airfare, flight booking, travel expenses, corporate travel, ticket price"
+  },
+  {
+    "keys":"610000c",
+    "new_keywords_clean":"equipment, workplace, home, office, workshop, rental, occupation, temporary, location, coworking"
+  },
+  {
+    "keys":"613200c",
+    "new_keywords_clean":"electricity, credit, order, depreciation, flat, -, architect, care, veterinarian, note, allowance, cost, kilometer, deposit, fund, flemish, rate, administration fees, legal fees, service charges, hidden costs"
+  },
+  {
+    "keys":"618060",
+    "new_keywords_clean":"check, -, eco, lunch vouchers, employee benefits, meal allowance, corporate lunch, food vouchers, staff perks, workplace incentives"
+  },
+  {
+    "keys":"618000",
+    "new_keywords_clean":"health, mutuality, dividend, emolument, payment, imp, calculation, remuneration, salary, director's compensation"
+  },
+  {
+    "keys":"613600a",
+    "new_keywords_clean":"representation, expense, event, training, deduction, documentation, food expenses, business meals, canteen, reception"
+  },
+  {
+    "keys":"600000",
+    "new_keywords_clean":"material, waste, ground, ingredient, processing, supply, mat, hay, cost, resources"
+  },
+  {
+    "keys":"612202",
+    "new_keywords_clean":"clean, product, office, raman, wash, cleaning, paint, poet, maintenance, decoration"
+  },
+  {
+    "keys":"613200a",
+    "new_keywords_clean":"annual, book, account, invoices, financial statements, tax returns, receipts, ledger, billing, expenses"
+  },
+  {
+    "keys":"613420",
+    "new_keywords_clean":"fuel, automotive, refuel, kilometer, tractor, invoices, VAT claims, utility vehicle, expense tracking, vehicle maintenance"
+  },
+  {
+    "keys":"241100",
+    "new_keywords_clean":"truck, vehicle, purchase, car, light, utility vehicle, company car, lease option, van, commercial vehicle"
+  },
+  {
+    "keys":"613412",
+    "new_keywords_clean":"breakdown, technical, inspection, vehicle, maintenance, repairs, service, upkeep, costs, utilities"
+  },
+  {
+    "keys":"613410",
+    "new_keywords_clean":"technical, repair, inspection, vehicle, wash, maintenance, car, trailer, service, upkeep"
+  },
+  {
+    "keys":"612201",
+    "new_keywords_clean":"material, creation, shop, accessory, decoration, display, shoot, flower, decor, \/, prop, content, clothing, workspace, interior design, furnishing, aesthetic, plants, renovation, ambiance, style"
+  },
+  {
+    "keys":"613425",
+    "new_keywords_clean":"trailer, band, clothing, car accessories, charging cable, bumper, vehicle parts, auto accessories, replacement parts, car gadgets"
+  },
+  {
+    "keys":"618030",
+    "new_keywords_clean":"acerta, saving, refund, income, payment, personal, tax, pension, self-employed, retirement planning"
+  },
+  {
+    "keys":"659000",
+    "new_keywords_clean":"package, order, house, transaction, mortgage, interest, card, fee, overcharge, bank, new, cost, loan, charges, finance, service, penalty, rate, credit, expenses"
+  },
+  {
+    "keys":"610100b",
+    "new_keywords_clean":"electricity, heating, office, water, ,, gas, utility bills, contracts, workplace expenses, energy costs"
+  },
+  {
+    "keys":"613310b",
+    "new_keywords_clean":"toll, business, road, package, travel, expense, activity, transport, excursion, foreign currency"
+  },
+  {
+    "keys":"613200b",
+    "new_keywords_clean":"lawyer, right, contribution, death, advocate, interpreter, hospitalization, trademark, man, legal fees"
+  },
+  {
+    "keys":"612100",
+    "new_keywords_clean":"corporate, event, installation, gsm, mobile, small, equipment, deduction, music, clear, insurance, telephone, subscription, phone, broadband, billing, provider, contract, services, communication"
+  },
+  {
+    "keys":"220000",
+    "new_keywords_clean":"house, private, vacant land, raw land, land investment, undeveloped property, real estate, land acquisition, plot of land, land for sale"
+  },
+  {
+    "keys":"613350b",
+    "new_keywords_clean":"subway, train, ratp, transport, bus, tram, public transit, local transport, commuter tickets, metro services"
+  },
+  {
+    "keys":"615300b",
+    "new_keywords_clean":"representation, gift, party, present, donation, good, cause, corporate gifts, client appreciation, affordable gifts"
+  },
+  {
+    "keys":"6450c",
+    "new_keywords_clean":"park, fine, vehicle fees, traffic violations, parking tickets, vehicle penalties, non-deductible expenses, fines and fees, automobile charges, legal penalties"
+  },
+  {
+    "keys":"612150f",
+    "new_keywords_clean":"-, chatgpt, e, icloud, invoicing, youtube, payconi, program, professional, software, accountable, \/, zoom, subscription, digital invoicing, cloud accounting, financial software, automated billing, business expenses, invoice management"
+  },
+  {
+    "keys":"615400",
+    "new_keywords_clean":"representation, advertising, expense, ad, sponsorship, marketing, advert, advertisement, trade, promotion"
+  },
+  {
+    "keys":"613320",
+    "new_keywords_clean":"overnight, charge, tourist, host, stay, tax, room, business travel, accommodation costs, lodging expenses"
+  },
+  {
+    "keys":"612150e",
+    "new_keywords_clean":"license, graphic, shopify, stripe, service, alarm, serve, fee, software, technical support"
+  },
+  {
+    "keys":"230000",
+    "new_keywords_clean":"hospital, heating, heat, boiler installation, HVAC systems, energy efficiency, building maintenance, thermal comfort, plumbing services, commercial heating solutions"
+  },
+  {
+    "keys":"613421b",
+    "new_keywords_clean":"electrocute, electric vehicle charging, home charger, public charging stations, hybrid car electricity, EV charging solutions, charging infrastructure, electric car battery, sustainable transportation, renewable energy for cars"
+  },
+  {
+    "keys":"613420b",
+    "new_keywords_clean":"vehicle, electric, vote, charging station, hybrid car, electric vehicle, home charging, public charging, EV charging, sustainable transportation"
+  },
+  {
+    "keys":"640002",
+    "new_keywords_clean":"emission, license, traffic, low, inspection, zone, car, driver, tax, registration"
+  },
+  {
+    "keys":"612400",
+    "new_keywords_clean":"file, business, rate, home, general, office, expense, service, administration, overhead"
+  },
+  {
+    "keys":"6130",
+    "new_keywords_clean":"association, fee, membership, professional, network, recruit, subscription, community, benefits, engagement"
+  },
+  {
+    "keys":"613400",
+    "new_keywords_clean":"business, trip, rental, lease, car, change, location, short term, long term, shared services"
+  },
+  {
+    "keys":"613422",
+    "new_keywords_clean":"mileage, wash, car, reimbursement, subscription, fuel invoices, VAT claims, utility vehicle, expense tracking, fleet management"
+  },
+  {
+    "keys":"613200d",
+    "new_keywords_clean":"business, sole, proprietorship, number, kbo, permit, registration, inscription, bc, certificate, self-employment"
+  },
+  {
+    "keys":"613430b",
+    "new_keywords_clean":"wash, park, car, parking, parking tickets, parking receipts, car fees, vehicle parking, parking charges, parking management"
+  },
+  {
+    "keys":"6450a",
+    "new_keywords_clean":"almond, vehicle fines, non-deductible expenses, traffic violations, penalties paid, car registration fees, tax implications of fines, automobile charges, financial liabilities, expense tracking for fines"
+  },
+  {
+    "keys":"613540",
+    "new_keywords_clean":"travel, pro, mutual, liability, insurance, assurance, guarantee, coverage, business, policy"
+  },
+  {
+    "keys":"252014",
+    "new_keywords_clean":"leasing, financial leasing, utility vehicle leasing, car lease agreement, business vehicle financing, commercial car leasing, operating lease, capital lease, vehicle financing options, business asset leasing"
+  },
+  {
+    "keys":"613432b",
+    "new_keywords_clean":"parking, park, paking, parking fees, parking receipts, Belgium parking, utility vehicle parking, parking expenses, vehicle parking costs, parking documentation"
+  },
+  {
+    "keys":"618050",
+    "new_keywords_clean":"vouchers, administration, meal, fees, deductible, invoice, expenses, tax benefits, employee perks, reimbursement"
+  },
+  {
+    "keys":"223000",
+    "new_keywords_clean":"website, renovations, purchase, domain, cadastre, intellectual property, trademark, copyright, real estate, lease agreements"
+  },
+  {
+    "keys":"613330",
+    "new_keywords_clean":"day, per diem, business travel, allowance, travel expenses, reimbursement, daily allowance, trip budget, expense management, corporate travel"
+  },
+  {
+    "keys":"613404",
+    "new_keywords_clean":"-, e, rent, bike, electric bike, short term rental, long term rental, bike sharing, sustainable transport, urban mobility"
+  },
+  {
+    "keys":"640000",
+    "new_keywords_clean":"live, house, vehicle registration, car taxes, registration fees, utility vehicle tax, annual vehicle tax, tax regulations, motor vehicle fees, vehicle ownership costs"
+  },
+  {
+    "keys":"613530",
+    "new_keywords_clean":"attest, commercial vehicle insurance, professional vehicle coverage, utility vehicle protection, business auto insurance, fleet insurance, vehicle liability insurance, insurance for vans, specialized vehicle insurance, professional driver insurance"
+  },
+  {
+    "keys":"613413",
+    "new_keywords_clean":"bike, utility vehicle, maintenance, repairs, bike servicing, vehicle upkeep, mechanical repairs, tire maintenance, bike troubleshooting, preventive maintenance"
+  },
+  {
+    "keys":"613402",
+    "new_keywords_clean":"rent, utility vehicle rental, truck rental, short term rental, long term rental, vehicle hire, commercial vehicle rental, pickup truck rental, bulk rental, on-demand vehicle rental"
+  },
+  {
+    "keys":"613455",
+    "new_keywords_clean":"operational leasing, car leasing, business car lease, vehicle leasing, leasing fees, company car lease, operational lease costs, automobile leasing, professional vehicle leasing, business vehicle expenses"
+  },
+  {
+    "keys":"252010",
+    "new_keywords_clean":"['```json', '[', '    \"financial leasing\",', '    \"car leasing\",', '    \"leasing investment\",', '    \"professional vehicle financing\",', '    \"automotive lease agreement\",', '    \"business car lease\",', '    \"financial services for vehicles\",', '    \"corporate car leasing\",', '    \"leasing options for cars\",', '    \"vehicle financing solutions\"', ']', '```']"
+  },
+  {
+    "keys":"613000",
+    "new_keywords_clean":"['```json', '[', '    \"financial leasing\",', '    \"monthly invoice\",', '    \"car leasing\",', '    \"professional car lease\",', '    \"vehicle financing\",', '    \"leasing agreement\",', '    \"auto lease payment\",', '    \"car financing options\",', '    \"business vehicle leasing\",', '    \"invoice for car lease\"', ']', '```']"
+  },
+  {
+    "keys":"241000",
+    "new_keywords_clean":"['```json', '[', '    \"buying a car\",', '    \"new car purchase\",', '    \"used car purchase\",', '    \"company car acquisition\",', '    \"light truck purchase\",', '    \"leasing a vehicle\",', '    \"car financing options\",', '    \"vehicle ownership transfer\",', '    \"automobile buying guide\",', '    \"second-hand vehicle deal\"', ']', '```']"
+  },
+  {
+    "keys":"613431b",
+    "new_keywords_clean":"motorcycle parking, parking receipts, parking tickets, motorcycle fees, parking charges, bike parking, parking validation, motorcycle parking permits, parking payment options, vehicle parking documentation"
+  },
+  {
+    "keys":"613421",
+    "new_keywords_clean":"car, Automotive, Auto, Vehicle, Moto, Bike, electricity, Hybrid, Diesel, fuel efficiency"
+  },
+  {
+    "keys":"613531",
+    "new_keywords_clean":"insurancemoto, commercial vehicle insurance, utility vehicle coverage, professional vehicle insurance, fleet insurance, vehicle liability insurance, business auto insurance, truck insurance, specialty vehicle insurance, insurance for work vehicles"
+  },
+  {
+    "keys":"613401",
+    "new_keywords_clean":"motorbike rental, short term motorcycle rental, long term motorcycle rental, shared motorcycle services, motorcycle hire, bike rental services, motorcycle leasing alternatives, two-wheeler rental, motorbike sharing, affordable motorcycle rentals"
+  },
+  {
+    "keys":"613456",
+    "new_keywords_clean":"['```json', '[', '    \"operational leasing\",', '    \"motorbike leasing\",', '    \"business vehicle rental\",', '    \"motorcycle operational lease\",', '    \"professional motorbike use\",', '    \"leasing fees\",', '    \"vehicle leasing costs\",', '    \"business transportation solutions\",', '    \"motorbike rental for businesses\",', '    \"corporate motorcycle leasing\"', ']', '```']"
+  },
+  {
+    "keys":"252011",
+    "new_keywords_clean":"financial leasing, motorbike leasing, leasing contract, professional investment, motorbike finance, vehicle leasing, business leasing, lease agreement, capital investment, motorbike acquisition"
+  },
+  {
+    "keys":"613001",
+    "new_keywords_clean":"['```json', '[', '    \"financial leasing\",', '    \"motorbike invoice\",', '    \"monthly payment\",', '    \"vehicle financing\",', '    \"business vehicle lease\",', '    \"motorcycle lease agreement\",', '    \"professional use motorbike\",', '    \"leasing costs\",', '    \"monthly leasing statement\",', '    \"vehicle leasing options\"', ']', '```']"
+  },
+  {
+    "keys":"640001",
+    "new_keywords_clean":"Road taxes, Registration fees, Utility vehicle taxes, Professional vehicle expenses, Vehicle tax regulations, Commercial vehicle fees, Tax deductions for vehicles, Fleet vehicle taxes, Business vehicle registration, Transportation tax compliance"
+  },
+  {
+    "keys":"6450b",
+    "new_keywords_clean":"Fines, Moto, Vehicle penalties, Traffic fines, Utility costs, Non-deductible expenses, Car fees, Parking tickets, Regulatory fines, Vehicle expenses"
+  },
+  {
+    "keys":"613435",
+    "new_keywords_clean":"motorbike parts, motorcycle accessories, motorbike lock, motorbike exhaust, motorbike helmets, motorcycle tires, motorbike maintenance, motorcycle gear, aftermarket parts, motorcycle performance upgrades"
+  },
+  {
+    "keys":"241220",
+    "new_keywords_clean":"motorbike purchase, buying a motorbike, new motorbike, used motorbike, business motorbike, motorbike financing, motorbike insurance, motorbike loans, motorbike for business use, motorbike investment"
+  },
+  {
+    "keys":"613702",
+    "new_keywords_clean":"Bike, eBike, electric bicycle, business bicycle, purchase bicycle, commuter bike, sustainable transport, business transportation, eco-friendly bike, bike for work"
+  },
+  {
+    "keys":"613416",
+    "new_keywords_clean":"bicycle parts, bike accessories, bike lock, new wheel, tire replacement, handlebar grips, bike lights, pedals, bike maintenance, gear shifters"
+  },
+  {
+    "keys":"613534",
+    "new_keywords_clean":"['```json', '[', '    \"utility vehicle insurance\",', '    \"bike theft insurance\",', '    \"bike damage coverage\",', '    \"motorcycle insurance\",', '    \"two-wheeler insurance\",', '    \"comprehensive bike insurance\",', '    \"vehicle protection plan\",', '    \"accident coverage for bikes\",', '    \"insurance for electric bikes\",', '    \"liability insurance for motorcycles\"', ']', '```']"
+  },
+  {
+    "keys":"613403",
+    "new_keywords_clean":"['```json', '[', '    \"bike rental\",', '    \"short term bike rental\",', '    \"long term bike rental\",', '    \"shared bike services\",', '    \"bike sharing\",', '    \"bicycle hire\",', '    \"cycle rental\",', '    \"urban bike rental\",', '    \"bike rental services\",', '    \"city bike rentals\"', ']', '```']"
+  },
+  {
+    "keys":"613457",
+    "new_keywords_clean":"['```json', '[', '    \"operational leasing\",', '    \"bike leasing\",', '    \"bicycle leasing fees\",', '    \"professional bike use\",', '    \"business bicycle rental\",', '    \"leasing agreements for bikes\",', '    \"corporate bike leasing\",', '    \"bicycle leasing options\",', '    \"tax benefits of bike leasing\",', '    \"operational leasing advantages\"', ']', '```']"
+  },
+  {
+    "keys":"252012",
+    "new_keywords_clean":"financial leasing, leasing contract, bike leasing, bicycle financing, initial investment, professional activity, lease agreement, equipment financing, business lease, cycle lease"
+  },
+  {
+    "keys":"613002",
+    "new_keywords_clean":"financial leasing, monthly invoice, bicycle leasing, professional bike lease, bike financing, equipment leasing, lease payment schedule, business bike rental, bicycle payment plan, leasing agreement"
+  },
+  {
+    "keys":"613414",
+    "new_keywords_clean":"eBike maintenance, utility vehicle repairs, eBike repair services, maintenance tips for eBikes, utility vehicle maintenance, eBike troubleshooting, electric bike servicing, utility vehicle upkeep, bike repair guides, eBike parts replacement"
+  },
+  {
+    "keys":"613703",
+    "new_keywords_clean":"purchase eBike, buy electric bicycle, eBike for business, electric bike purchase, business transportation eBike, eBike investment, commercial electric bicycle, business use electric bike, eBike financing options, best eBike for work"
+  },
+  {
+    "keys":"613417",
+    "new_keywords_clean":"e-bike accessories, bike lock, e-bike wheels, e-bike components, electric bike parts, replacement bike parts, bike maintenance tools, e-bike batteries, bicycle safety gear, e-bike repair kits"
+  },
+  {
+    "keys":"613533",
+    "new_keywords_clean":"electric bike insurance, utility vehicle insurance, theft protection for bikes, damage coverage for electric bikes, e-bike insurance, comprehensive bike insurance, personal property insurance, electric vehicle coverage, bicycle theft insurance, insurance for electric bicycles"
+  },
+  {
+    "keys":"613458",
+    "new_keywords_clean":"operational leasing, e-bike leasing, electric bicycle rental, business bike leasing, professional e-bike usage, corporate bicycle leasing, leasing fees for e-bikes, electric bike financing, bike leasing for companies, business transportation solutions"
+  },
+  {
+    "keys":"252013",
+    "new_keywords_clean":"financial leasing, leasing contract, e-bike financing, electric bike lease, business leasing, capital investment, professional use e-bike, leasing options for e-bikes, electric vehicle financing, business transportation solutions"
+  },
+  {
+    "keys":"613003",
+    "new_keywords_clean":"financial leasing, monthly invoice, e-bike, electric bicycle, leasing contract, professional use, bicycle financing, payment schedule, lease agreement, business transportation"
+  },
+  {
+    "keys":"613422b",
+    "new_keywords_clean":"electric vehicle charging, hybrid vehicle charging, public EV charger, home charging station, electric utility vehicle, charging infrastructure, EV charging solutions, sustainable transportation, electric car charging, renewable energy for vehicles"
+  },
+  {
+    "keys":"613532",
+    "new_keywords_clean":"Insurance, utilityvehicle, utility, commercial vehicle insurance, professional vehicle coverage, fleet insurance, business auto insurance, vehicle liability insurance, insurance for trucks, specialized vehicle insurance"
+  },
+  {
+    "keys":"613459",
+    "new_keywords_clean":"['```json', '[', '    \"operational leasing\",', '    \"utility vehicle leasing\",', '    \"professional vehicle rental\",', '    \"business vehicle leasing\",', '    \"vehicle leasing fees\",', '    \"equipment leasing\",', '    \"commercial vehicle financing\",', '    \"fleet management solutions\",', '    \"vehicle usage costs\",', '    \"tax deductions for leasing\"', ']', '```']"
+  },
+  {
+    "keys":"613004",
+    "new_keywords_clean":"['```json', '[', '    \"financial leasing\",', '    \"monthly invoice\",', '    \"utility vehicle\",', '    \"leasing contract\",', '    \"vehicle finance\",', '    \"automotive leasing\",', '    \"payment schedule\",', '    \"leasing agreement\",', '    \"vehicle expenses\",', '    \"lease payment\"', ']', '```']"
+  },
+  {
+    "keys":"613415",
+    "new_keywords_clean":"['```json', '[', '    \"utility vehicle parts\",', '    \"utility vehicle accessories\",', '    \"charging cable for utility vehicles\",', '    \"bumper for utility vehicles\",', '    \"replacement parts for utility vehicles\",', '    \"utility vehicle maintenance\",', '    \"aftermarket parts for utility vehicles\",', '    \"vehicle accessories for off-road\",', '    \"utility vehicle upgrades\",', '    \"heavy-duty vehicle components\"', ']', '```']"
+  },
+  {
+    "keys":"613340",
+    "new_keywords_clean":"Uber, Taxi, driver, taxi fee, ride-sharing, transportation services, Belgium taxis, fare calculator, chauffeur service, local taxi service"
+  },
+  {
+    "keys":"613541",
+    "new_keywords_clean":"professional liability insurance, insurance for professionals, malpractice insurance, errors and omissions insurance, business liability coverage, third party damage insurance, professional indemnity insurance, legal liability protection, risk management insurance, coverage for professional services"
+  },
+  {
+    "keys":"613542",
+    "new_keywords_clean":"fire insurance, property damage insurance, financial loss coverage, building insurance, contents insurance, fire damage protection, homeowners insurance, commercial fire insurance, risk management, insurance policy"
+  },
+  {
+    "keys":"613543",
+    "new_keywords_clean":"['```json', '[', '    \"legal protection insurance\",', '    \"insurance for legal costs\",', '    \"dispute resolution insurance\",', '    \"legal advice coverage\",', '    \"lawyer fees insurance\",', '    \"legal defense insurance\",', '    \"civil litigation insurance\",', '    \"personal legal insurance\",', '    \"affordable legal insurance\",', '    \"family legal protection\"', ']', '```']"
+  },
+  {
+    "keys":"613544",
+    "new_keywords_clean":"['```json', '[', '    \"guaranteed income insurance\",', '    \"disability insurance\",', '    \"annuity\",', '    \"income protection\",', '    \"long-term disability\",', '    \"short-term disability\",', '    \"financial security\",', '    \"illness coverage\",', '    \"income replacement\",', '    \"insurance benefits\"', ']', '```']"
+  },
+  {
+    "keys":"602000",
+    "new_keywords_clean":"outsourcing, contractor, contracting, supplier, consulting, support, freelance, third-party compensation, service agreements, business partnerships"
+  },
+  {
+    "keys":"6140",
+    "new_keywords_clean":"conference, course, Exhibition, summit, keynote, learning, congress, event, workshop, seminar"
+  },
+  {
+    "keys":"615300a",
+    "new_keywords_clean":"gifts, end of year, wine, Bloemen, Breakfast, Whisky, Marketing, event, corporate gifting, client appreciation"
+  },
+  {
+    "keys":"624000",
+    "new_keywords_clean":"pension, salary, compensation, director, retirement planning, executive benefits, financial security, pension options, retirement income, company director pension"
+  },
+  {
+    "keys":"221000",
+    "new_keywords_clean":"construction, building materials, construction management, cost estimation, project budgeting, construction techniques, site development, architectural design, labor costs, regulatory compliance"
+  },
+  {
+    "keys":"222000",
+    "new_keywords_clean":"built land, land purchases, construction land, property development, real estate with buildings, investment in land, commercial land, residential land, land acquisition, developed property"
+  }
+]
